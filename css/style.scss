@@ -595,6 +595,15 @@
                 transition: all .3s ease-in-out;
                 .main__blog-img {
                     display: flex;
+                    .img-1 {
+                        background-image: url(../images/image_1.jpg);
+                    }
+                    .img-2 {
+                        background-image: url(../images/image_2.jpg);
+                    }
+                    .img-3 {
+                        background-image: url(../images/image_3.jpg);
+                    }
                     a {
                         display: inline-block;
                         width: 100%;
